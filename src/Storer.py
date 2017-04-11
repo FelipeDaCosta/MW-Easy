@@ -38,14 +38,14 @@ class Storer(object):
 	# Le o arquivo read_list.mw e retorna a lista. Retorna None caso o arquivo n exista
 	def read_list(self):
 		if os.path.isfile(self.LIST_FILE):
-			list_file = cPickle.load(self.LIST_FILE)
+			list_file = cPickle.load(open(self.LIST_FILE, "rb"))
 			return list_file
 		return None
 
 	# Le o arquivo data_dict.mw e retorna o dicionario. Retorna None caso o arquivo n exista
 	def read_dict(self):
 		if os.path.isfile(self.DICT_FILE):
-			dict_file = cPickle.load(self.DICT_FILE)
+			dict_file = cPickle.load(open(self.DICT_FILE,"rb"))
 			return dict_file
 		return None
 
