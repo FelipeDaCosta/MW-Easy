@@ -1,0 +1,572 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"u_",
+				"u_passado"
+			],
+			[
+				"cand",
+				"candy_challenge"
+			],
+			[
+				"CONN",
+				"CONN_PORT"
+			],
+			[
+				"horari",
+				"horario_to_dict_str"
+			],
+			[
+				"frame",
+				"frame_msg"
+			],
+			[
+				"passw",
+				"password_entry"
+			],
+			[
+				"frame_",
+				"frame_username"
+			],
+			[
+				"vagas",
+				"vagas_total"
+			],
+			[
+				"calouro",
+				"calouros_vagas_restantes"
+			],
+			[
+				"calouros_v",
+				"calouros_vagas_ocupadas"
+			],
+			[
+				"KEY_WOR",
+				"KEY_WORD_CAMPUS"
+			],
+			[
+				"KEY",
+				"KEY_WORD_NOME_PROF"
+			],
+			[
+				"is",
+				"is_info_vagas"
+			],
+			[
+				"regex",
+				"regex_pattern"
+			],
+			[
+				"KEY_WORD",
+				"KEY_WORD_TURMA"
+			],
+			[
+				"final",
+				"final_array2"
+			],
+			[
+				"BASE",
+				"BASE_OFERTA"
+			],
+			[
+				"get_",
+				"get_all_cursos"
+			],
+			[
+				"lista",
+				"lista_d"
+			],
+			[
+				"lista_tra",
+				"lista_transacoes"
+			],
+			[
+				"historico",
+				"historico_transacoes"
+			],
+			[
+				"quantas",
+				"quantas_vezes_chamada"
+			],
+			[
+				"transp",
+				"transp_A"
+			],
+			[
+				"is_en",
+				"is_engaged_rank"
+			],
+			[
+				"is_enga",
+				"is_engaged_to"
+			],
+			[
+				"str",
+				"string"
+			],
+			[
+				"snake",
+				"snake_direction"
+			],
+			[
+				"tail",
+				"tail_position"
+			],
+			[
+				"head",
+				"head_position"
+			],
+			[
+				"tail_",
+				"tail_direction"
+			],
+			[
+				"rect",
+				"rect"
+			],
+			[
+				"computer",
+				"computer_powers"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"main",
+				"main_session"
+			],
+			[
+				"use",
+				"users_p2"
+			],
+			[
+				"TO",
+				"TOPIC"
+			],
+			[
+				"get",
+				"get_dict"
+			],
+			[
+				"reques",
+				"request_foto"
+			],
+			[
+				"novida",
+				"novidades_html"
+			],
+			[
+				"buil",
+				"buildConnectionString"
+			],
+			[
+				"adiciona",
+				"adiciona_vertice"
+			],
+			[
+				"novo",
+				"novo_vertice"
+			],
+			[
+				"ult",
+				"ultima_aresta"
+			],
+			[
+				"ultim",
+				"ultimo_vertice"
+			],
+			[
+				"destroi",
+				"destroi_arestas"
+			],
+			[
+				"vizin",
+				"vizinhos_de_um"
+			],
+			[
+				"vizi",
+				"vizinhos_de_um"
+			],
+			[
+				"vertice",
+				"vertice"
+			],
+			[
+				"num",
+				"num_arestas"
+			],
+			[
+				"auto",
+				"auto_now"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Scraper.py",
+			"settings":
+			{
+				"buffer_size": 7371,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 127.0,
+		"last_filter": "package control: in",
+		"selected_items":
+		[
+			[
+				"package control: in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/felipecosta/Documents/Programming/python/Matricula Web"
+	],
+	"file_history":
+	[
+		"/Users/felipecosta/Documents/Programming/python/root_me/pixel_madness.go",
+		"/Users/felipecosta/Documents/Programming/python/root_me/add_find_pattern.py",
+		"/Users/felipecosta/Documents/Programming/python/root_me/ari_progression.py",
+		"/Users/felipecosta/Documents/Programming/python/Matricula Web/Scraper.py",
+		"/Users/felipecosta/Documents/Programming/python/root_me/irc_bot.py",
+		"/Users/felipecosta/Documents/Programming/python/Matricula Web/Scraper.pyc",
+		"/Users/felipecosta/Documents/Programming/GOLANG/tcp_server.go",
+		"/Users/felipecosta/Documents/Programming/GOLANG/draw_example.go",
+		"/Users/felipecosta/Documents/Programming/GOLANG/mandelbrot.go",
+		"/Users/felipecosta/Documents/Programming/python/Matricula Web/Storer.py",
+		"/Users/felipecosta/Documents/teste.c",
+		"/Users/felipecosta/Documents/teste.go",
+		"/Users/felipecosta/Documents/Clang Analyser",
+		"/Users/felipecosta/Documents/Uno Analyser",
+		"/Users/felipecosta/Documents/Programming/python/Matricula Web/http_proxies.txt",
+		"/Users/felipecosta/Documents/Programming/python/Matricula Web/Turma.py",
+		"/Users/felipecosta/Documents/Programming/python/Matricula Web/Materia.py",
+		"/Users/felipecosta/Documents/Programming/python/Matricula Web/Main.py",
+		"/Users/felipecosta/Documents/Programming/teste_cast.c",
+		"/Users/felipecosta/Documents/Programming/python/Matricula Web/proxy_test.py",
+		"/Users/felipecosta/Documents/Programming/python/Matricula Web/ProxyTest.py",
+		"/Users/felipecosta/Downloads/arithmetic_coder_1/main.cpp",
+		"/Users/felipecosta/Downloads/arithmetic_coder_1/arithmetic_coder.cpp",
+		"/Users/felipecosta/Documents/teste_gui.py",
+		"/Users/felipecosta/Documents/Programming/python/Matricula Web/formato_bd.txt",
+		"/Users/felipecosta/Dropbox/testando_rec.c",
+		"/Users/felipecosta/Documents/Programming/python/Matricula Web/materia.py",
+		"/Users/felipecosta/Documents/Programming/python/Matricula Web/oferta_td.txt",
+		"/Users/felipecosta/Documents/Programming/python/Matricula Web/oferta_div.txt",
+		"/Users/felipecosta/Documents/Programming/python/Matricula Web/oferta.txt",
+		"/Users/felipecosta/Documents/Programming/python/Matricula Web/oferta_tr.txt",
+		"/Users/felipecosta/Documents/Programming/python/Matricula Web/ofertahtml.txt",
+		"/Users/felipecosta/Documents/Programming/python/Matricula Web/oferta.html",
+		"/Users/felipecosta/Downloads/Code/Chapter 2/core/src/com/packt/snake/GameScreen.java",
+		"/Users/felipecosta/Documents/Programming/python/better_python.py",
+		"/Users/felipecosta/Documents/Programming/python/algorithms/merge_sort.py",
+		"/Users/felipecosta/Documents/Faculdade/Telefonia e redes 1/dnslu.c",
+		"/Users/felipecosta/Documents/Faculdade/Telefonia e redes 1/pointer.c",
+		"/Users/felipecosta/Documents/Faculdade/Telefonia e redes 1/ideias",
+		"/Users/felipecosta/Documents/Programming/python/Matricula Web/untitled",
+		"/Users/felipecosta/Documents/Programming/python/Matricula Web/curso.py",
+		"/Users/felipecosta/Documents/Programming/python/Matricula Web/scraper.py",
+		"/Users/felipecosta/Dropbox/pass/steam rec",
+		"/Users/felipecosta/Documents/Programming/sdk path",
+		"/Applications/VLC.app/Contents/MacOS/share/lua/extensions/VLSub.luac",
+		"/Users/felipecosta/Documents/Pixel Chess/android/AndroidManifest.xml",
+		"/Users/felipecosta/Documents/Programming/python/algorithms/quicksort.py",
+		"/Users/felipecosta/Documents/Programming/python/algorithms/djikstra.py",
+		"/Users/felipecosta/Documents/Programming/python/Hacking stuff/passwords.txt",
+		"/Users/felipecosta/Documents/Programming/python/Hacking stuff/dictionary.txt",
+		"/Users/felipecosta/Documents/Programming/python/Hacking stuff/unixcrack.py",
+		"/Users/felipecosta/Documents/Programming/python/OARESP",
+		"/Users/felipecosta/Downloads/Rede social/src/Social_test.cpp",
+		"/Users/felipecosta/Downloads/Rede social/src/social.cpp",
+		"/Users/felipecosta/Documents/Programming/python/machine_learning.py",
+		"/Users/felipecosta/Documents/Faculdade/CN/prog12.f90",
+		"/Users/felipecosta/Rede social/src/usuario.cpp",
+		"/Users/felipecosta/Rede social/src/usuario_test.cpp",
+		"/Users/felipecosta/Rede social/src/transacao.h",
+		"/Users/felipecosta/Rede social/src/usuario.h",
+		"/Users/felipecosta/Rede social/src/transacao.cpp",
+		"/Users/felipecosta/Rede social/src/Transacao_test.cpp",
+		"/Users/felipecosta/Rede social/src/social.h",
+		"/Users/felipecosta/Rede social/src/social.cpp",
+		"/Users/felipecosta/Rede social/src/Social_test.cpp",
+		"/Users/felipecosta/Rede social/src/teste.c",
+		"/Users/felipecosta/Rede social/src/makefile",
+		"/Users/felipecosta/Documents/Faculdade/Metodos/Final/src/Usuario_test.cpp",
+		"/Users/felipecosta/Documents/Faculdade/Metodos/Final/src/Usuario.h",
+		"/Users/felipecosta/Rede social/relatorio.txt",
+		"/Users/felipecosta/Rede social/test.cpp",
+		"/Users/felipecosta/Rede social/social.cpp",
+		"/Users/felipecosta/Rede social/social.h",
+		"/Users/felipecosta/Rede social/RELATORIO-Felipe da Costa.txt",
+		"/Users/felipecosta/Rede social/transacao.cpp",
+		"/Users/felipecosta/Rede social/transacao.h",
+		"/Users/felipecosta/Rede social/usuario.h",
+		"/Users/felipecosta/Rede social/usuario.cpp",
+		"/Users/felipecosta/Documents/Faculdade/Metodos/Final/src/social.h",
+		"/Users/felipecosta/Documents/Faculdade/Metodos/Final/src/social_test.cpp",
+		"/Users/felipecosta/Documents/Faculdade/Metodos/Final/src/social.cpp",
+		"/Users/felipecosta/Documents/Faculdade/CN Programas/prog2.py",
+		"/Users/felipecosta/Documents/Faculdade/CN Programas/tabela1.dat",
+		"/Users/felipecosta/Documents/Faculdade/CN Programas/programa_1.py",
+		"/Users/felipecosta/Documents/Faculdade/Metodos/FInal/menu.c",
+		"/Users/felipecosta/Documents/Faculdade/Metodos/FInal/makefile",
+		"/Users/felipecosta/Documents/Faculdade/Metodos/FInal/input.h",
+		"/Users/felipecosta/Documents/Faculdade/Metodos/FInal/input.c",
+		"/Users/felipecosta/Documents/Faculdade/Metodos/FInal/test.c",
+		"/Users/felipecosta/Documents/Faculdade/Metodos/FInal/display.c",
+		"/Users/felipecosta/Documents/Faculdade/Metodos/FInal/display.h",
+		"/Users/felipecosta/Documents/Faculdade/Metodos/FInal/menu.h",
+		"/Users/felipecosta/Documents/Faculdade/Linguagens/final/UnBSolidaria/UnBSolidaria/wsgi.py",
+		"/Users/felipecosta/Documents/Faculdade/Linguagens/final/UnBSolidaria/UnBSolidaria/urls.py",
+		"/Users/felipecosta/Documents/Faculdade/Linguagens/final/UnBSolidaria/UnBSolidaria/settings.py",
+		"/Users/felipecosta/Documents/Faculdade/Linguagens/final/UnBSolidaria/UnBSolidaria/__init__.py",
+		"/Users/felipecosta/Documents/Faculdade/OAC/P2 passadas/Prova 1 2010",
+		"/Users/felipecosta/Documents/Faculdade/OAC/P2 passadas/Prova 2 2010",
+		"/Users/felipecosta/Documents/Faculdade/OAC/P2 passadas/Prova 1 2011",
+		"/Users/felipecosta/Documents/Faculdade/OAC/P2 passadas/Prova 1 211",
+		"/Users/felipecosta/Desktop/Trab Metodos/roman_number_test.cpp",
+		"/Users/felipecosta/Desktop/Trab Metodos/roman_numbers.cpp",
+		"/Users/felipecosta/Documents/Faculdade/Metodos/test.c",
+		"/Users/felipecosta/Documents/Faculdade/Metodos/Trab Metodos de Prog",
+		"/Users/felipecosta/Documents/testando_rec.c",
+		"/Users/felipecosta/Documents/teste2.c",
+		"/Users/felipecosta/Documents/Faculdade/CN Programas/inp",
+		"/Users/felipecosta/Documents/test.c",
+		"/Users/felipecosta/Documents/Programming/Competitiva/Random/sanatorium.cpp",
+		"/Users/felipecosta/Documents/Programming/Competitiva/Random/inp",
+		"/Users/felipecosta/Documents/Untitled.py",
+		"/Users/felipecosta/Documents/Programming/Competitiva/CodeForces #374/inp",
+		"/Users/felipecosta/Documents/Programming/Competitiva/CodeForces #374/C.cpp",
+		"/Users/felipecosta/Documents/Programming/Competitiva/CodeForces #374/B.cpp",
+		"/Users/felipecosta/Documents/Programming/Competitiva/CodeForces #374/A.cpp",
+		"/Users/felipecosta/Documents/Programming/Competitiva/maximum_increase.cpp",
+		"/Users/felipecosta/Documents/Programming/Competitiva/teste.cpp",
+		"/Users/felipecosta/Documents/Programming/Competitiva/night_at_museum.cpp",
+		"/Users/felipecosta/Documents/Programming/Competitiva/buy_a_shovel.cpp",
+		"/Users/felipecosta/Documents/Programming/Competitiva/Cormem_best_friend.cpp",
+		"/Users/felipecosta/Documents/Programming/python/pygame/Main.py",
+		"/Users/felipecosta/Documents/Programming/python/pygame/Block.py",
+		"/Users/felipecosta/Documents/Programming/python/pygame/Snake.py",
+		"/Users/felipecosta/Documents/Faculdade/Filosofia/Trabalho.txt",
+		"/Users/felipecosta/Documents/q631.py",
+		"/Users/felipecosta/Documents/inp",
+		"/Users/felipecosta/Documents/Programming/c/Compet/data_struct.cpp",
+		"/Users/felipecosta/Documents/Programming/python/BOT_MP_VT/mp_bot.py"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"isdi",
+			"self.get",
+			"requests",
+			"(Teor-Prat-Ext-Est)",
+			"td",
+			"QUARTA",
+			"framecinza",
+			"TABELA MEIO",
+			"vagas",
+			"djis",
+			"realiz",
+			"visu",
+			"vizuali",
+			"interf",
+			"inter",
+			"inicializa_usuarios",
+			"inic",
+			"transacao",
+			"cria_tran",
+			"edita_u",
+			"edita_usuario",
+			"retornaUsuari",
+			"historico",
+			"cria_transa",
+			"cria_usua",
+			"cria_usuario",
+			"realiza",
+			"mostraAmizade",
+			"interfaceEdi",
+			"mostraRede",
+			"realizaEdicao",
+			"cleber",
+			"ultima_aresta"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Scraper.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7371,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Matricula_web.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
