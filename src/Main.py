@@ -2,12 +2,14 @@
 	Usado para testes
 """
 
-from Scraper import Scraper
+from Spiders import Spider
 from Turma import Turma
 from Materia import Materia
-from Storer import Storer
+from DataHandler import DataHandler
 from pprint import pprint
-import cPickle
+
+
+
 
 
 

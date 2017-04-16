@@ -13,6 +13,7 @@ class Materia(object):
         self.scraper = scraper
         self.nome = nome
         self.codigo = codigo
+        self.creditos = 0
         self.turmas = []
         self.get_oferta()
 
@@ -20,7 +21,9 @@ class Materia(object):
         """
             Atualiza a oferta da materia no matricula web
         """
-        new_oferta = self.scraper.get_oferta(self.codigo)
+        creditos, new_oferta = self.scraper.get_oferta(self.codigo)
+        if creditos != 0:
+            self.creditos = int(creditos.group(1)) + int(creditos.group(2))
         if new_oferta != None:
             self.turmas = new_oferta
         else:
