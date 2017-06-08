@@ -35,9 +35,10 @@ class DataHandler(object):
         with open(DICT_FILE, "wb") as f:
             cPickle.dump([self.materias, self.nomes_materias, self.curso_materias, self.lista_cursos], f)
 
-    def get_lista_cursos():
+    def get_lista_cursos(self):
         """
-            
+            Return:
+                Retorna lista contendo tuplas (Codigo_curso, nome_curso) 
         """
         if not self.lista_cursos:
             self.lista_cursos = self.scraper.get_all_cursos()
